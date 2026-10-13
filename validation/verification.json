@@ -1,0 +1,7 @@
+{
+  "rebuild_output_sha256_match": true,
+  "xdelta_roundtrip_sha256_match": true,
+  "widescreen_patch_addresses_unchanged_in_korean_elf": "31/31 (3 live-memory entries not in ELF)",
+  "emulator": "PCSX2 2.2.0",
+  "screens_checked": ["boot", "title menu", "game mode/race select", "rider select/bio", "bike shop", "level select", "level loading", "level intro", "race HUD", "pause menu", "16:9 widescreen"]
+}

@@ -1,0 +1,17 @@
+*.iso
+*.ISO
+*.xdelta
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ttf
+*.otf
+*.bin
+*.pyc
+__pycache__/
+work/
+translation/src/
+translation/en_*.tsv
+translation/src.tsv
+movie/

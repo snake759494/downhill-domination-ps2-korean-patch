@@ -1,0 +1,5 @@
+Pillow
+numpy
+pycdlib
+capstone
+zstandard
